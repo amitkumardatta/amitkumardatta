@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumardatta" alt="amitkumardatta" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitkumardatta?tab=repositories](https://github.com/amitkumardatta?tab=repositories)
 
-- 💬 Ask me about **Python, Kivy, Tkinter, AI, ML, Linux, SQL, Networking**
+- 📝 I regularly write articles on [https://amitkumardattapython.blogspot.com/](https://amitkumardattapython.blogspot.com/)
+
+- 💬 Ask me about **Python, GUI, AI, ML, Linux, SQL, Networking, Django, Cloud**
 
 - ⚡ Fun fact **I think I am Funny**
 
